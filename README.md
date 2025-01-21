@@ -1,2 +1,2 @@
 # Python-demo
-This is my first program on github
+This is my first git repository.
